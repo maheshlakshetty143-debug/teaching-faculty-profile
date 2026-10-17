@@ -1,0 +1,6 @@
+{
+  "name": "FacultyFormat Pro - Teaching Faculty Formats & Appraisal System",
+  "description": "Comprehensive academic appraisal, workload allocation, syllabus delivery plans, and promotion criteria formats for Professors, Associate Professors, and Assistant Professors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
